@@ -1,5 +1,5 @@
 # learning-direction
-This repository contains the demo code for the paper "Learning to Take Directions One Step at a Time" in ICPR2020.
+This repository contains the demo code for the paper ["Learning to Take Directions One Step at a Time"](https://arxiv.org/pdf/1812.01874.pdf) in ICPR2020.
 
 # Requirements
 python 2.7 and tensorflow 1.8
