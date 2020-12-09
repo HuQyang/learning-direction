@@ -1,6 +1,9 @@
 # learning-direction
 This repository contains the demo code for the paper ["Learning to Take Directions One Step at a Time"](https://arxiv.org/pdf/1812.01874.pdf) in ICPR2020.
 
+- [Conference Paper](https://arxiv.org/pdf/1812.01874.pdf)
+- [Supplementary Material](https://www.cvg.unibe.ch/media/publications/pdf/hu-icpr2020-supplement.pdf)
+
 # Requirements
 python 2.7 and tensorflow 1.8
 
@@ -8,8 +11,6 @@ python 2.7 and tensorflow 1.8
 1. Download PUSH robot dataset https://sites.google.com/site/brainrobotdata/home/push-dataset and replace the data in the folder train_examples
 
 2. run main.py to try the training precedure
-
-
 
 
 # Credits
